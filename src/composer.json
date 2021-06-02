@@ -6,7 +6,7 @@
         "optimize-autoloader": true,
         "sort-packages": true,
         "platform": {
-            "php": "7.4",
+            "php": "8.0",
             "ext-exif": "1",
             "ext-gd": "1",
             "ext-intl": "1",
@@ -17,8 +17,8 @@
         }
     },
     "require": {
-        "php": ">=7.4",
-        "pimcore/customer-management-framework-bundle": "2.5.7",
+        "php": ">=8.0",
+        "pimcore/customer-management-framework-bundle": "2.6.2",
         "pimcore/pimcore": "6.8.8",
         "aws/aws-sdk-php": "3.171.0"
     },

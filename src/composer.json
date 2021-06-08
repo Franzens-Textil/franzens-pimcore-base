@@ -20,7 +20,8 @@
         "php": ">=7.4",
         "pimcore/customer-management-framework-bundle": "2.6.2",
         "pimcore/pimcore": "6.8.8",
-        "aws/aws-sdk-php": "3.171.0"
+        "aws/aws-sdk-php": "3.171.0",
+        "alpin11/pimcore-s3": "dev-master"
     },
     "require-dev": {
         "cache/integration-tests": "^0.16.0",
@@ -42,5 +43,11 @@
         "symfony-web-dir": "web",
         "symfony-tests-dir": "tests",
         "symfony-assets-install": "relative"
-    }
+    },
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/alpin11/pimcore-s3.git"
+        }
+    ]
 }

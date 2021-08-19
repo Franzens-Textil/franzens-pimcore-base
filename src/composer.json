@@ -19,7 +19,7 @@
     "require": {
         "php": ">=7.4",
         "pimcore/customer-management-framework-bundle": "2.6.2",
-        "pimcore/pimcore": "6.8.8",
+        "pimcore/pimcore": "6.9.5",
         "aws/aws-sdk-php": "3.171.0",
         "alpin11/pimcore-s3": "dev-master"
     },

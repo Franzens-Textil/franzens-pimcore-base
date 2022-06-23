@@ -18,8 +18,8 @@
         }
     },
     "require": {
-        "league/flysystem-aws-s3-v3": "^2.1",
-        "lustmored/flysystem-v2-simple-cache-adapter": "^0.2",
+        "league/flysystem-aws-s3-v3": "^2",
+        "lustmored/flysystem-v2-simple-cache-adapter": "^0.3",
         "php-http/guzzle7-adapter": "^0.1.1",
         "pimcore/customer-management-framework-bundle": "3.2.2",
         "pimcore/pimcore": "10.1.3"

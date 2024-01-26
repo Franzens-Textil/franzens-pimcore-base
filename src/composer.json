@@ -20,11 +20,10 @@
     "require": {
         "league/flysystem-aws-s3-v3": "^3.5.0",
         "lustmored/flysystem-v2-simple-cache-adapter": "^0.3.0",
-        "passioneight/pimcore-google-recaptcha": "^2",
         "php-http/guzzle7-adapter": "^0.1.1",
-        "picqer/php-barcode-generator": "v2.2.4",
         "pimcore/customer-management-framework-bundle": "3.2.2",
-        "pimcore/pimcore": "10.6.9"
+        "pimcore/pimcore": "10.6.9",
+        "picqer/php-barcode-generator": "v2.2.4"
     },
     "require-dev": {
         "cache/integration-tests": "^0.17.0",
